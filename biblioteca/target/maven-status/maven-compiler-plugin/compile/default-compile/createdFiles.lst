@@ -1,0 +1,5 @@
+com/universidade/biblioteca/livro/LivroRepository.class
+com/universidade/biblioteca/livro/Livro.class
+com/universidade/biblioteca/BibliotecaApplication.class
+com/universidade/biblioteca/SwaggerConfig.class
+com/universidade/biblioteca/livro/LivroController.class
